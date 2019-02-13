@@ -1,0 +1,3 @@
+rootProject.name = 'clientMobile'
+
+include ':app'
